@@ -1,4 +1,9 @@
-## Hi there 👋
+##  👽自我介绍
+
+- 👋 你好！我是WereAsh，欢迎来到我的GitHub主页！
+- 👀 最近：正在疯狂学习深度学习、模型微调相关知识🧐
+- 🥳 梦想：成为一名优秀的软件开发工程师和开源贡献者🤩
+- 📫 联系：wereashhh@gmail.com～
 
 <!--
 **WereAsh/WereAsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
